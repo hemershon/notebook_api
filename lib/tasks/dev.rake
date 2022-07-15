@@ -12,4 +12,5 @@ namespace :dev do
     puts "contatos cadastrados com sucesso!"
   end
 
+
 end
